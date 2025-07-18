@@ -14,7 +14,6 @@ This project builds a stock price prediction tool using historical data fetched 
   - RSI (Relative Strength Index)
   - MACD and Signal Line
   - Volatility and returns
-- Implements **Decision Tree** and **Random Forest** regressors
 - Outputs:
   - R² scores for both models
   - Predicted next-day closing prices
