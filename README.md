@@ -1,4 +1,4 @@
-# 📈 Stock Price Prediction with Decision Trees and Random Forest
+# 📈 Stock Price Prediction with Supervised MAchine Learning
 
 This project builds a stock price prediction tool using historical data fetched from Yahoo Finance via the `yfinance` API. It leverages feature engineering and machine learning models (Decision Tree and Random Forest Regressors) to predict the next closing price of a stock.
 
